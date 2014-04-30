@@ -1,0 +1,25 @@
+@CHARSET "ISO-8859-1";
+body
+{
+	font:12px sansserif;
+	color:black;
+	background:white;
+}
+h1
+{
+	background:red;
+	font:25px bold Times New Roman;
+	color:white;
+}
+
+.detail
+{
+	border-color:red;
+	font:10px sansserif;
+}
+
+.btns
+{
+	color:red;
+	font:15px  bold sansserif;
+}
